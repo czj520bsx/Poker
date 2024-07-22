@@ -1,0 +1,44 @@
+G:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.exe.config
+H:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.exe.config
+H:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.csprojResolveAssemblyReference.cache
+H:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.exe
+H:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.pdb
+H:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.exe
+H:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.pdb
+E:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.exe.config
+E:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.exe
+E:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.pdb
+E:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.exe
+E:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.pdb
+E:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.csprojResolveAssemblyReference.cache
+F:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.exe.config
+F:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.exe
+F:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.pdb
+F:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.exe
+F:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.pdb
+F:\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.csprojResolveAssemblyReference.cache
+D:\新建文件夹\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.exe.config
+D:\新建文件夹\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.exe
+D:\新建文件夹\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.pdb
+D:\新建文件夹\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.exe
+D:\新建文件夹\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.pdb
+D:\新建文件夹\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.csprojResolveAssemblyReference.cache
+D:\Something\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.exe.config
+D:\Something\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.exe
+D:\Something\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.pdb
+D:\Something\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.exe
+D:\Something\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.pdb
+D:\Something\计算机博弈大赛\TexasHoldemAI\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.csprojResolveAssemblyReference.cache
+D:\Something\计算机博弈大赛\TexasHoldemAI(ip手动输入)\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.exe.config
+D:\Something\计算机博弈大赛\TexasHoldemAI(ip手动输入)\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.exe
+D:\Something\计算机博弈大赛\TexasHoldemAI(ip手动输入)\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.pdb
+D:\Something\计算机博弈大赛\TexasHoldemAI(ip手动输入)\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.exe
+D:\Something\计算机博弈大赛\TexasHoldemAI(ip手动输入)\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.pdb
+D:\Something\计算机博弈大赛\TexasHoldemAI(ip手动输入)\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.csprojResolveAssemblyReference.cache
+C:\Users\shagou\Documents\Tencent Files\1213741092\FileRecv\计算机博弈大赛伯懿德州扑克\TexasHoldemAI(足够筹码会弃牌)\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.exe.config
+C:\Users\shagou\Documents\Tencent Files\1213741092\FileRecv\计算机博弈大赛伯懿德州扑克\TexasHoldemAI(足够筹码会弃牌)\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.exe
+C:\Users\shagou\Documents\Tencent Files\1213741092\FileRecv\计算机博弈大赛伯懿德州扑克\TexasHoldemAI(足够筹码会弃牌)\TexasHoldemAI\TexasHoldemAI\bin\Debug\TexasHoldemAI.pdb
+C:\Users\shagou\Documents\Tencent Files\1213741092\FileRecv\计算机博弈大赛伯懿德州扑克\TexasHoldemAI(足够筹码会弃牌)\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.csproj.CoreCompileInputs.cache
+C:\Users\shagou\Documents\Tencent Files\1213741092\FileRecv\计算机博弈大赛伯懿德州扑克\TexasHoldemAI(足够筹码会弃牌)\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.exe
+C:\Users\shagou\Documents\Tencent Files\1213741092\FileRecv\计算机博弈大赛伯懿德州扑克\TexasHoldemAI(足够筹码会弃牌)\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.pdb
+C:\Users\shagou\Documents\Tencent Files\1213741092\FileRecv\计算机博弈大赛伯懿德州扑克\TexasHoldemAI(足够筹码会弃牌)\TexasHoldemAI\TexasHoldemAI\obj\Debug\TexasHoldemAI.csprojAssemblyReference.cache
